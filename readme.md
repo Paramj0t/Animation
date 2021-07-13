@@ -1,4 +1,4 @@
-# Three.js Journey - ANIMAION
+# Three.js Journey - ANIMATION
 
 ## Setup
 
